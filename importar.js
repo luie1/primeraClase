@@ -1,5 +1,5 @@
-'use strict'
 
+'use strict'
 const Reloj=require('./clase');
 
-const iniciar=new Reloj();
+const init=new Reloj();
